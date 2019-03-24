@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using BGUNotifier.Models;
+using BGUN.Models;
 
-namespace BGUNotifier.Controllers
+namespace BGUN.Controllers
 {
     public class HomeController : Controller
     {

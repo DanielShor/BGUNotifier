@@ -1,6 +1,6 @@
 using System;
 
-namespace BGUNotifier.Models
+namespace BGUN.Models
 {
     public class ErrorViewModel
     {
